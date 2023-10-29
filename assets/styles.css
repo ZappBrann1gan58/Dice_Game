@@ -1,0 +1,37 @@
+body {
+    background-color: #003049;
+    text-align: center;
+}
+
+h1{
+    font-family: 'Titan One', sans-serif;
+    -webkit-text-stroke: 1px white;
+    font-size: 7rem;
+    color: #90a955;
+}
+
+.container {
+    display: flex;
+    gap: 5%;
+    align-items: center;
+    justify-content: center;
+}
+
+.result {
+    display: flex;
+}
+
+h5 {
+    font-size: 2.5rem;
+    color: #90a955;
+    font-family: 'Titan One', sans-serif;
+    -webkit-text-stroke: 1px white;
+}
+
+h4 {
+    padding-top: 5rem;
+    font-size: 1.5rem;
+    color: #90a955;
+    font-family: 'Titan One', sans-serif;
+    -webkit-text-stroke: 1px white;
+}
